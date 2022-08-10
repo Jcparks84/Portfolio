@@ -175,9 +175,7 @@ a {
     outline: 0;
 }
 
-.mail {
-    font-size: 30px;
-}
+.mail
 
 
 @media only screen and (max-width: 1000px) {
