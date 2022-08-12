@@ -51,14 +51,11 @@ p {
     margin: 0;
     font-size: 30px;
     font-weight: 300;
+    font-feature-settings: ;
 }
 
 .p-text {
     font-size: 15px;
-}
-
-.p-text-about {
-    font-size: 25px;
 }
 
 .subtext {
